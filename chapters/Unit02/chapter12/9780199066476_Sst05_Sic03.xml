@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Some important cities</b>]]></text>
+<text><![CDATA[Say whether the statement is true or false. Click the correct option.]]></text>
+<text><![CDATA[Now find this city on the map. Click the correct dot.]]></text>
+<text><![CDATA[<B>Level 1</B>]]></text>
+<text><![CDATA[<B>Level 2</B>]]></text>
+
+<!-- Questions -->
+
+<Question><![CDATA[Before Islamabad, Lahore was the capital of Pakistan.]]></Question>
+<Question><![CDATA[The Shah Faisal Mosque is in Karachi.]]></Question>
+<Question><![CDATA[Karachi is the largest city of Pakistan.]]></Question>
+<Question><![CDATA[The tombs of Jahangir and Nur Jehan are in Lahore.]]></Question>
+<Question><![CDATA[The mausoleum of the Quaid-e-Azam is in Rawalpindi.]]></Question>
+<Question><![CDATA[Quetta is the capital of Peshawar.]]></Question>
+<Question><![CDATA[Peshawar is the gateway between Central Asia and the subcontinent.]]></Question>
+<Question><![CDATA[Qissa Khawani Bazaar is in Rawalpindi.]]></Question>
+<Question><![CDATA[The Minar-e-Pakistan is in Karachi.]]></Question>
+<Question><![CDATA[Peshawar is the capital of Khyber Pakhtunkhwa.]]></Question>
+
+<Question><![CDATA[True]]></Question>
+<Question><![CDATA[False]]></Question>
+
+<Question><![CDATA[Lahore]]></Question>
+<Question><![CDATA[Karachi]]></Question>
+<Question><![CDATA[Rawalpindi]]></Question>
+<Question><![CDATA[Quetta]]></Question>
+<Question><![CDATA[Peshawar]]></Question>
+<Question><![CDATA[Multan]]></Question>
+<Question><![CDATA[Hyderabad]]></Question>
+<Question><![CDATA[Islamabad]]></Question>
+<Question><![CDATA[The former capital of Pakistan]]></Question>
+<Question><![CDATA[The capital of Khyber Pakhtunkhwa]]></Question>
+
+
+
+<Ans><![CDATA[Lahore]]></Ans>
+<Ans><![CDATA[Karachi]]></Ans>
+<Ans><![CDATA[Rawalpindi]]></Ans>
+<Ans><![CDATA[Quetta]]></Ans>
+<Ans><![CDATA[Peshawar]]></Ans>
+<Ans><![CDATA[Multan]]></Ans>
+<Ans><![CDATA[Hyderabad]]></Ans>
+<Ans><![CDATA[Islamabad]]></Ans>
+
+<!-- Option -->
+
+<Option><![CDATA[D]]></Option>
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Try again!]]></feedback>
+<feedback><![CDATA[Here is the correct answer is.]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good Job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Oops! That's wrong.]]></feedback>
+
+
+</data>
+</framexml>

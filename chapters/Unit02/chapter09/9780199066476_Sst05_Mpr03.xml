@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Minerals and Power resources</B>]]></text>
+<text><![CDATA[Solve the crossword puzzle. Take help from the clues provided. Click 'Submit' after completing the puzzle. Don't forget to watch the timer.]]></text>
+
+<text><![CDATA[<B>Across:</B>]]></text>
+<text><![CDATA[<B>Down:</B>]]></text>
+
+<Submit><![CDATA[<B>Submit</B>]]></Submit>
+
+<!-- Across -->
+
+<Question><![CDATA[a non-metallic mineral used in making fertilizers, cement, paper, and paints]]></Question>
+<Question><![CDATA[Pakistan's second most important source of energy is ____ gas.]]></Question>
+<Question><![CDATA[electricity produced from fast-flowing rivers]]></Question>
+<Question><![CDATA[a non-metallic mineral used in cooking and preserving. ____ salt]]></Question>
+<Question><![CDATA[the location of the first oilfield discovered in Pakistan]]></Question>
+<Question><![CDATA[power generated from heat produced by burning oil, gas, or coal]]></Question>
+<Question><![CDATA[a non-metallic mineral used in the production of lime, bleaching powder, and soap]]></Question>
+ 
+
+<!-- Down 6 -->
+
+<Question><![CDATA[a natural source from which energy can be generated]]></Question>
+<Question><![CDATA[a non-metallic mineral used to make explosives, paints, and rayon]]></Question>
+<Question><![CDATA[a non-metallic mineral used as decorative stone in buildings]]></Question>
+<Question><![CDATA[fuel used to run cars, trucks, and buses]]></Question>
+<Question><![CDATA[the only metallic mineral mined on a large scale in Pakistan]]></Question>
+<Question><![CDATA[power plants that are expensive to build]]></Question>
+<Question><![CDATA[fuel used in brick kilns]]></Question>
+
+
+<!-- SUBMIT ROLL OVER TEXT -->
+
+<Question><![CDATA[Press this button to check the word you have typed in the puzzle.]]></Question>
+
+
+
+<ques><![CDATA[1]]></ques>
+<ques><![CDATA[2]]></ques>
+<ques><![CDATA[3]]></ques>
+<ques><![CDATA[4]]></ques>
+<ques><![CDATA[5]]></ques>
+<ques><![CDATA[6]]></ques>
+<ques><![CDATA[7]]></ques>
+<ques><![CDATA[8]]></ques>
+<ques><![CDATA[9]]></ques>
+<ques><![CDATA[10]]></ques>
+<ques><![CDATA[11]]></ques>
+<ques><![CDATA[12]]></ques>
+<ques><![CDATA[13]]></ques>
+<ques><![CDATA[14]]></ques>
+
+
+
+<number><![CDATA[1.]]></number>
+<number><![CDATA[2.]]></number>
+<number><![CDATA[3.]]></number>
+<number><![CDATA[4.]]></number>
+<number><![CDATA[5.]]></number>
+<number><![CDATA[6.]]></number>
+<number><![CDATA[7.]]></number>
+<number><![CDATA[8.]]></number>
+<number><![CDATA[9.]]></number>
+<number><![CDATA[10.]]></number>
+<number><![CDATA[11.]]></number>
+<number><![CDATA[12.]]></number>
+<number><![CDATA[13.]]></number>
+<number><![CDATA[14.]]></number>
+
+
+
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That's correct!]]></feedback>
+<feedback><![CDATA[Oh no! That is not correct. Try again.]]></feedback>
+<feedback><![CDATA[Oops! That is wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[Congratulations! You are simply marvellous!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

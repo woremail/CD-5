@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Minerals</B>]]></text>
+<text><![CDATA[Minerals are of two types – metallic and non-metallic. ]]></text>
+<text><![CDATA[Pakistan has vast resources of non-metallic minerals.]]></text>
+<text><![CDATA[Gypsum, barite, rock salt, magnesite, soapstone, fluorite, sulphur, gemstones, marble, clays and limestone are the major non-metallic minerals found in Pakistan.]]></text>
+<text><![CDATA[Gypsum is found in the Salt Range. It is mostly mined at Khewra, Dandot, and Daud Khel.]]></text>
+<text><![CDATA[Barite is mainly used in the oil industry.]]></text>
+<text><![CDATA[Rock salt is mined in the Salt Range. Its major use is in the food industry.]]></text>
+<text><![CDATA[Magnesite is mined at Spin Kan in Balochistan.]]></text>
+<text><![CDATA[It is used in the manufacture of cement, paper, and rayon.]]></text>
+<text><![CDATA[Soapstone is found in Zhob, Safed Koh, and Sherwan. It is used in making soap, ceramics, and face powder.]]></text>
+<text><![CDATA[Fluorite is found in Koh-i-Maran and Koh-i-Dilband.]]></text>
+<text><![CDATA[Sulphur is found in Koh-i-Sultan and Sanni. It is used as a raw material for making sulphuric acid.]]></text>
+<text><![CDATA[Limestone is found mainly in the Salt Range and the Margalla Hills.]]></text>
+<text><![CDATA[In Pakistan, chromite is the only metallic mineral mined on a large scale.]]></text>
+<text><![CDATA[Chromite is mined at Muslim Bagh near Quetta.]]></text>
+<text><![CDATA[Small quantities of copper, iron, manganese, antimony, and bauxite are also mined in Pakistan.]]></text>
+
+<text><![CDATA[<B>Power Resources</B>]]></text>
+<text><![CDATA[Pakistan uses much less energy than many countries, but it does not produce enough energy to meet its needs.]]></text>
+<text><![CDATA[The energy used in Pakistan comes from oil, gas, water, and coal.]]></text>
+<text><![CDATA[Petroleum is made from oil which is found deep below the surface of the Earth.]]></text>
+<text><![CDATA[The Oil and Gas Development Corporation was set up in Pakistan in 1961.]]></text>
+<text><![CDATA[The oilfields of Pakistan are located in the Potohar Plateau and Lower Sindh.]]></text>
+<text><![CDATA[The Attock refinery at Morgah in Rawalpindi is the oldest refinery in Pakistan.]]></text>
+<text><![CDATA[Pakistan has large deposits of natural gas.]]></text>
+<text><![CDATA[The largest gas field in Pakistan is at Sui and the second largest is at Marri.]]></text>
+<text><![CDATA[Natural gas is Pakistan's second most important source of energy after water.]]></text>
+<text><![CDATA[Pakistan produces electricity through various hydroelectric, thermal, and nuclear power plants.]]></text>
+<text><![CDATA[Hydroelectricity is produced by constructing a dam across a fast-flowing river.]]></text>
+<text><![CDATA[Tarbela, Mangla, and Warsak dams are three major hydroelectricity projects of Pakistan.]]></text>
+<text><![CDATA[Most of the hydel plants of Pakistan are located in upper Punjab and the NWFP.]]></text>
+<text><![CDATA[Most of the electricity in Pakistan is produced by thermal power plants.]]></text>
+<text><![CDATA[Thermal power is generated from heat produced by burning oil, gas, or coal.]]></text>
+<text><![CDATA[Karachi is the largest centre of thermal electricity in Pakistan.]]></text>
+<text><![CDATA[Pakistan has two nuclear power plants&#x2014;one at Karachi and the other at Chashma.]]></text>
+<text><![CDATA[Nuclear Power Plants]]></text>
+<text><![CDATA[Nuclear power plants are very expensive to build.]]></text>
+<text><![CDATA[The major coal mining is done in the Sor Range near Quetta in Pakistan.]]></text>
+<text><![CDATA[Pakistan has large coal reserves which have not yet been exploited.]]></text>
+<text><![CDATA[Solar energy is also used in Pakistan on a very small scale.]]></text>
+<text><![CDATA[Development of solar energy is still at an experimental stage.]]></text>
+<text><![CDATA[Wind energy is another source of energy that can be developed in coastal areas and plains.]]></text>
+<text><![CDATA[The development of wind power is still in its early stages in Pakistan.]]></text>
+<text><![CDATA[We should value our natural resources and use them carefully.]]></text>
+<text><![CDATA[Overexploitation of natural resources may lead to their exhaustion one day.]]></text>
+
+
+<!-- Caption -->
+
+<text><![CDATA[Minerals]]></text>
+<text><![CDATA[Metallic]]></text>
+<text><![CDATA[Non-metallic]]></text>
+<text><![CDATA[Non-metallic minerals]]></text>
+<text><![CDATA[Gypsum]]></text>
+<text><![CDATA[Barite]]></text>
+<text><![CDATA[Rock salt]]></text>
+<text><![CDATA[Magnesite]]></text>
+<text><![CDATA[Soapstone]]></text>
+<text><![CDATA[Fluorite]]></text>
+<text><![CDATA[Sulphur]]></text>
+<text><![CDATA[Limestone]]></text>
+<text><![CDATA[Chromite]]></text>
+<text><![CDATA[Chromite]]></text>
+<text><![CDATA[Copper ore]]></text>
+<text><![CDATA[Energy]]></text>
+<text><![CDATA[Oil]]></text>
+<text><![CDATA[Gas]]></text>
+<text><![CDATA[Water]]></text>
+<text><![CDATA[Coal]]></text>
+<text><![CDATA[Petroleum drilling]]></text>
+<text><![CDATA[Attock refinery]]></text>
+<text><![CDATA[Natural gas refinery ]]></text>
+<text><![CDATA[Electricity]]></text>
+<text><![CDATA[Hydroelectric]]></text>
+<text><![CDATA[Thermal]]></text>
+<text><![CDATA[Nuclear]]></text>
+<text><![CDATA[Warsak dam]]></text>
+<text><![CDATA[Thermal power plant ]]></text>
+<text><![CDATA[Thermal power plant in karachi]]></text>
+<text><![CDATA[Karachi nuclear power plant ]]></text>
+<text><![CDATA[Chashma]]></text>
+<text><![CDATA[Thar desert]]></text>
+<text><![CDATA[Windmills]]></text>
+<text><![CDATA[Coal mining]]></text>
+
+</data>
+</framexml>

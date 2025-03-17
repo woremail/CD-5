@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Agriculture in Pakistan</b>]]></text>
+<text><![CDATA[Help the cyclist reach the flag-point hill. Type in the correct answer in the blank space. Then click 'Submit'.]]></text>
+
+<!-- Option -->
+
+<question><![CDATA[In Pakistan, __________ has the most fertile soil and the most well-developed irrigation system.]]></question>
+<question><![CDATA[In summer, we grow __________ crops in Pakistan.]]></question>
+<question><![CDATA[In winter, we grow __________ crops in Pakistan.]]></question>
+<question><![CDATA[__________ is harvested in the months of April and May.]]></question>
+<question><![CDATA[Basmati  is a type of __________ that is mostly exported to the Middle East from Pakistan.]]></question>
+<question><![CDATA[__________ is a type of cereal that can grow even in poor soil with very little water.]]></question>
+<question><![CDATA[Masoor, moong, and chana are types of __________s.]]></question>
+<question><![CDATA[Cotton is a type of __________ crop grown for commercial purposes.]]></question>
+<question><![CDATA[More farmers are now using __________s instead of bullocks to plough fields.]]></question>
+<question><![CDATA[   ________ and goats are kept on farms for their meat, wool, and skins.]]></question>
+
+<!-- Answers -->
+<answer><![CDATA[Punjab]]></answer>
+<answer><![CDATA[kharif]]></answer>
+<answer><![CDATA[rabi]]></answer>
+<answer><![CDATA[Wheat]]></answer>
+<answer><![CDATA[rice]]></answer>
+<answer><![CDATA[Millet]]></answer>
+<answer><![CDATA[pulse]]></answer>
+<answer><![CDATA[cash]]></answer>
+<answer><![CDATA[tractor]]></answer>
+<answer><![CDATA[Sheep]]></answer>
+
+<!-- number -->
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again.]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer!]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good Job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<Submit><![CDATA[Submit]]></Submit>
+
+</data>
+</framexml>

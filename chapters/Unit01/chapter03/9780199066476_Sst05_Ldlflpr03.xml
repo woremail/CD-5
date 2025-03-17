@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Life in the desert, Life in the forest, and Life in the polar regions</b>]]></text>
+<text><![CDATA[Help the penguin reach the other side of the crevasse. Click the correct option.]]></text>
+
+<text><![CDATA[<b>Now click the penguin.</b>]]></text>
+
+<!-- question -->
+<question><![CDATA[Most of the deserts are located in the __________ parts of continents.]]></question>
+<option><![CDATA[western]]></option>
+<option><![CDATA[eastern]]></option>
+<option><![CDATA[northern]]></option>
+<option><![CDATA[southern]]></option>
+
+<question><![CDATA[The Arabian Desert is a __________ desert.]]></question>
+<option><![CDATA[continental]]></option>
+<option><![CDATA[tropical]]></option>
+<option><![CDATA[rain shadow]]></option>
+<option><![CDATA[coastal]]></option>
+
+<question><![CDATA[The Gobi Desert is a __________ desert.]]></question>
+<option><![CDATA[tropical]]></option>
+<option><![CDATA[rain shadow]]></option>
+<option><![CDATA[coastal]]></option>
+<option><![CDATA[continental]]></option>
+
+<question><![CDATA[The __________ Desert is the driest place in the world.]]></question>
+<option><![CDATA[Gobi]]></option>
+<option><![CDATA[Sahara]]></option>
+<option><![CDATA[Atacama]]></option>
+<option><![CDATA[Arabian]]></option>
+
+<question><![CDATA[Which desert is in Africa?]]></question>
+<option><![CDATA[Death Valley]]></option>
+<option><![CDATA[Kyzyl Kum]]></option>
+<option><![CDATA[Kalahari]]></option>
+<option><![CDATA[Atacama]]></option>
+
+<question><![CDATA[The hot, dry wind of the northern Sahara Desert is called __________.]]></question>
+<option><![CDATA[<I>sirocco</I>]]></option>
+<option><![CDATA[<I>loo</I>]]></option>
+<option><![CDATA[<I>harmattan</I>]]></option>
+<option><![CDATA[<I>khamsin</I>]]></option>
+
+<question><![CDATA[A fertile area in the middle of a desert is called a/an __________.]]></question>
+<option><![CDATA[wadi]]></option>
+<option><![CDATA[oasis]]></option>
+<option><![CDATA[dune]]></option>
+<option><![CDATA[mirage]]></option>
+
+<question><![CDATA[The __________ are a nomadic tribe who live in the Arabian Desert.]]></question>
+<option><![CDATA[Tuareg]]></option>
+<option><![CDATA[Bedouin]]></option>
+<option><![CDATA[Bushmen]]></option>
+<option><![CDATA[Pygmies]]></option>
+
+<question><![CDATA[Rainforests lie close to either side of the _______________.]]></question>
+<option><![CDATA[Tropic of Cancer]]></option>
+<option><![CDATA[Tropic of Capricorn]]></option>
+<option><![CDATA[equator]]></option>
+<option><![CDATA[Arctic Circle]]></option>
+
+<question><![CDATA[Most of the temperate forests are found between the ________________ and the Arctic Circle.]]></question>
+<option><![CDATA[Tropic of Cancer]]></option>
+<option><![CDATA[equator]]></option>
+<option><![CDATA[Antarctic Circle]]></option>
+<option><![CDATA[Tropic of Capricorn]]></option>
+
+<question><![CDATA[The __________ Rainforest is the world's largest rainforest.]]></question>
+<option><![CDATA[Congo]]></option>
+<option><![CDATA[Nilgiri]]></option>
+<option><![CDATA[Indonesian]]></option>
+<option><![CDATA[Amazon]]></option>
+
+<question><![CDATA[The __________ are short, dark people who live in the African rainforests.]]></question>
+<option><![CDATA[Bushmen]]></option>
+<option><![CDATA[Inuit]]></option>
+<option><![CDATA[Tuaregs]]></option>
+<option><![CDATA[Pygmies]]></option>
+
+<question><![CDATA[Which ocean lies around the North Pole?]]></question>
+<option><![CDATA[Pacific Ocean]]></option>
+<option><![CDATA[Atlantic Ocean]]></option>
+<option><![CDATA[Arctic Ocean]]></option>
+<option><![CDATA[Indian Ocean]]></option>
+
+<question><![CDATA[Roald Amundsen was the first man to reach _______________.]]></question>
+<option><![CDATA[the North Pole]]></option>
+<option><![CDATA[the South Pole]]></option>
+<option><![CDATA[Greenland]]></option>
+<option><![CDATA[Antarctica]]></option>
+
+<question><![CDATA[Penguins are found naturally only in __________.]]></question>
+<option><![CDATA[Canada]]></option>
+<option><![CDATA[Brazil]]></option>
+<option><![CDATA[Antarctica]]></option>
+<option><![CDATA[Greenland]]></option>
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+<number><![CDATA[11]]></number>
+<number><![CDATA[12]]></number>
+<number><![CDATA[13]]></number>
+<number><![CDATA[14]]></number>
+<number><![CDATA[15]]></number>
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

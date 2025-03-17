@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Maps</B>]]></text>
+<text><![CDATA[A <i>map</i> is a drawing made to show some area of the Earth.]]></text>
+<text><![CDATA[A <i>physical</i> map shows hills, mountains, rivers, and other landforms.]]></text>
+<text><![CDATA[A <i>political map</i> shows towns, cities, and borders between states and countries.]]></text>
+<text><![CDATA[A <i>relief map</i> shows the height of hills and mountains.]]></text>
+<text><![CDATA[North, south, east, and west are called <i>compass directions</i> on a map.]]></text>
+<text><![CDATA[A grid of vertical and horizontal lines drawn over a map makes it easier to find a place on the map.]]></text>
+
+<text><![CDATA[The vertical lines drawn from north to south, passing through the North and South Poles are called <i>meridians of longitude</i>.]]></text>
+<text><![CDATA[The horizontal lines drawn parallel to the equator from east to west are called <i>parallels of latitude</i>.]]></text>
+
+<text><![CDATA[The <i>equator</i> is the line of latitude that divides the Earth into the northern hemisphere and southern hemisphere.]]></text>
+
+<text><![CDATA[The 0° meridian is called the <i>Prime Meridian</i>. It passes through a place called Greenwich, near London in England.]]></text>
+
+<text><![CDATA[The 180° meridian is the <i>International Date Line</i>. It lies exactly opposite the Prime Meridian.]]></text>
+
+<text><![CDATA[To find a place on a map, we find its grid reference. Colours, symbols, and patterns help us to find things more easily on a map.]]></text>
+<text><![CDATA[Each map has a key that tells us what the symbols and colours used on the map mean.]]></text>
+<text><![CDATA[Each map has a scale that helps us to calculate the actual distance between two places.
+]]></text>
+<text><![CDATA[Maps have a scale that helps us to calculate the actual distance between two places.]]></text>
+
+
+
+
+
+<!-- Caption -->
+<text><![CDATA[Map of Pakistan]]></text>
+<text><![CDATA[Physical map]]></text>
+<text><![CDATA[Political map]]></text>
+<text><![CDATA[Relief map]]></text>
+<text><![CDATA[Compass directions]]></text>
+<text><![CDATA[Grid reference]]></text>
+<text><![CDATA[Meridians of longitude]]></text>
+<text><![CDATA[Parallels of latitude]]></text>
+
+
+
+
+
+
+
+
+</data>
+</framexml>

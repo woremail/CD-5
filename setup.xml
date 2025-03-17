@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<pop><![CDATA[Hi there! I am Bunny, the rabbit!]]></pop>
+<pop><![CDATA[Today, I am here to take you through an interesting]]></pop>
+<pop><![CDATA[journey through world geography,]]></pop>
+<pop><![CDATA[geography of Pakistan, and history and rights.]]></pop>
+<pop><![CDATA[To proceed, just click any of the units on the screen!]]></pop>
+<pop><![CDATA[To proceed, just click any of the lessons.]]></pop>
+<pop><![CDATA[Now click any one of the lessons]]></pop>
+<pop><![CDATA[Click on any one of the units.]]></pop>
+
+<unit>
+	<Num><![CDATA[01]]></Num>
+	<name><![CDATA[Unit 1 : World Geography]]></name>
+	<main><![CDATA[chapters/Unit01/chapter01/9780199066476_Sst05_Maps01.swf]]></main>
+	<main><![CDATA[chapters/Unit01/chapter02/9780199066476_Sst05_Wc01.swf]]></main>
+	<main><![CDATA[chapters/Unit01/chapter03/9780199066476_Sst05_Ldlflpr01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 1 : Maps]]></name>
+		<path><![CDATA[chapters/Unit01/chapter01/9780199066476_Sst05_Maps02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter01/9780199066476_Sst05_Maps03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 2 : World climate]]></name>
+		<path><![CDATA[chapters/Unit01/chapter02/9780199066476_Sst05_Wc02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter02/9780199066476_Sst05_Wc03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lessons 3-4-5 :]]></name>
+		<name><![CDATA[Life in the desert,]]></name>
+		<name><![CDATA[Life in the forest,]]></name>
+		<name><![CDATA[and Life in the polar regions]]></name>
+		<path><![CDATA[chapters/Unit01/chapter03/9780199066476_Sst05_Ldlflpr02.swf]]></path>
+		<path><![CDATA[chapters/Unit01/chapter03/9780199066476_Sst05_Ldlflpr03.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+	<Num><![CDATA[02]]></Num>
+	<name><![CDATA[Unit 2 : Geography of Pakistan]]></name>
+	<main><![CDATA[chapters/Unit02/chapter07/9780199066476_Sst05_Aip01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter08/9780199066476_Sst05_Wai01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter09/9780199066476_Sst05_Mpr01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter12/9780199066476_Sst05_Sic01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter13/9780199066476_Sst05_Pahn01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter14/9780199066476_Sst05_Pahn01.swf]]></main>	
+	<main><![CDATA[chapters/Unit02/chapter16/9780199066476_Sst05_Pahn01.swf]]></main>
+	<main><![CDATA[chapters/Unit02/chapter18-19/9780199066476_Sst05_Mpr01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 7 : Agriculture in Pakistan]]></name>
+		<path><![CDATA[chapters/Unit02/chapter07/9780199066476_Sst05_Aip02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter07/9780199066476_Sst05_Aip03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 8 : Water and irrigation]]></name>
+		<path><![CDATA[chapters/Unit02/chapter08/9780199066476_Sst05_Wai02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter08/9780199066476_Sst05_Wai03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lessons 9-10 : Minerals]]></name>
+		<name><![CDATA[and Power resources]]></name>
+		<path><![CDATA[chapters/Unit02/chapter09/9780199066476_Sst05_Mpr02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter09/9780199066476_Sst05_Mpr03.swf]]></path>
+	</lesson>
+		<lesson>
+		<name><![CDATA[Lesson 12 : Some important cities]]></name>
+		<path><![CDATA[chapters/Unit02/chapter12/9780199066476_Sst05_Sic02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter12/9780199066476_Sst05_Sic03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 13 : Pakistan and her]]></name>
+		<name><![CDATA[neighbours]]></name>
+		<path><![CDATA[chapters/Unit02/chapter13/9780199066476_Sst05_Pahn02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter13/9780199066476_Sst05_Pahn03.swf]]></path>
+	</lesson>
+		<lesson>
+		<name><![CDATA[Lesson 14 : Early history of islam]]></name>
+		<path><![CDATA[chapters/Unit02/chapter14/9780199066476_Sst05_Pahn02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter14/9780199066476_Sst05_Pahn03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 16 : The struggle for]]></name>
+		<name><![CDATA[independence]]></name>
+		<path><![CDATA[chapters/Unit02/chapter16/9780199066476_Sst05_Pahn02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter16/9780199066476_Sst05_Pahn03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lessons 18-19 :]]></name>
+		<name><![CDATA[After independence, 1947-71]]></name>
+		<name><![CDATA[and Pakistan since 1971]]></name>
+		<path><![CDATA[chapters/Unit02/chapter16/9780199066476_Sst05_Mpr02.swf]]></path>
+		<path><![CDATA[chapters/Unit02/chapter16/9780199066476_Sst05_Mpr03.swf]]></path>
+	</lesson>
+</unit>
+
+
+<unit>
+	<Num><![CDATA[03]]></Num>
+	<name><![CDATA[Unit 3 : History and Rights]]></name>
+	<main><![CDATA[chapters/Unit03/chapter14/9780199066476_Sst05_Pahn01.swf]]></main>	
+	<main><![CDATA[chapters/Unit03/chapter16/9780199066476_Sst05_Pahn01.swf]]></main>
+	<main><![CDATA[chapters/Unit03/chapter18-19/9780199066476_Sst05_Mpr01.swf]]></main>
+	<lesson>
+		<name><![CDATA[Lesson 14 : Early history of Islam]]></name>
+		<path><![CDATA[chapters/Unit03/chapter14/9780199066476_Sst05_Pahn02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter14/9780199066476_Sst05_Pahn03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lesson 16 : The struggle for]]></name>
+		<name><![CDATA[independence]]></name>
+		<path><![CDATA[chapters/Unit03/chapter16/9780199066476_Sst05_Pahn02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter16/9780199066476_Sst05_Pahn03.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Lessons 18-19 :]]></name>
+		<name><![CDATA[After independence, 1947-71]]></name>
+		<name><![CDATA[and Pakistan since 1971]]></name>
+		<path><![CDATA[chapters/Unit03/chapter18-19/9780199066476_Sst05_Mpr02.swf]]></path>
+		<path><![CDATA[chapters/Unit03/chapter18-19/9780199066476_Sst05_Mpr03.swf]]></path>
+	</lesson>
+</unit>
+
+
+
+<mainFrame>
+	<text><![CDATA[Unit 1 : World Geography]]></text>
+	<text><![CDATA[Unit 2 : Geography of Pakistan]]></text>
+	<text><![CDATA[Unit 3 : History and Rights]]></text>
+</mainFrame>
+
+</data>
+</framexml>

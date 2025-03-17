@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>After independence, 1947-71 and Pakistan since 1971</b>]]></text>
+<text><![CDATA[Guide Salma through the maze.<br>Click the correct option. Use the arrow keys to move Salma through the maze.]]></text>
+<text><![CDATA[<B>Submit</B>]]></text>
+<!-- Questions -->
+
+<Question><![CDATA[Mohammad Ali Jinnah became <BR>the first ________________ of Pakistan.]]></Question>
+<Question><![CDATA[Who was the first prime minister of Pakistan?]]></Question>
+<Question><![CDATA[In which year was the first constitution of Pakistan passed?]]></Question>
+<Question><![CDATA[Before Islamabad, the capital city of Pakistan was ____________.]]></Question>
+<Question><![CDATA[The Pakistan People's Party was formed by _______________.]]></Question>
+<Question><![CDATA[East Pakistan became Bangladesh in the year ___________.]]></Question>
+<Question><![CDATA[Who was the military general to take power in 1977 by removing Zulfikar Ali Bhutto?]]></Question>
+<Question><![CDATA[In which year did Benazir Bhutto become prime minister of Pakistan for the first time?]]></Question>
+<Question><![CDATA[In which year was Benazir Bhutto assassinated?]]></Question>
+<Question><![CDATA[In which year was the Simla Accord signed between India and Pakistan?]]></Question>
+
+
+
+
+<!-- Option -->
+
+<Option><![CDATA[prime minister]]></Option>
+<Option><![CDATA[governor general]]></Option>
+<Option><![CDATA[president]]></Option>
+<Option><![CDATA[major general]]></Option>
+
+<Option><![CDATA[Khwaja Nazimuddin]]></Option>
+<Option><![CDATA[Iskander Mirza]]></Option>
+<Option><![CDATA[Liaquat Ali Khan]]></Option>
+<Option><![CDATA[Mohammad Ayub]]></Option>
+
+<Option><![CDATA[1947]]></Option>
+<Option><![CDATA[1948]]></Option>
+<Option><![CDATA[1955]]></Option>
+<Option><![CDATA[1956]]></Option>
+
+<Option><![CDATA[Karachi]]></Option>
+<Option><![CDATA[Rawalpindi]]></Option>
+<Option><![CDATA[Lahore]]></Option>
+<Option><![CDATA[Quetta]]></Option>
+
+<Option><![CDATA[Yahya Khan]]></Option>
+<Option><![CDATA[Mujibur Rahman]]></Option>
+<Option><![CDATA[Ayub Khan]]></Option>
+<Option><![CDATA[Zulfikar Ali Bhutto]]></Option>
+
+<Option><![CDATA[1970]]></Option>
+<Option><![CDATA[1971]]></Option>
+<Option><![CDATA[1972]]></Option>
+<Option><![CDATA[1975]]></Option>
+
+<Option><![CDATA[Ayub Khan]]></Option>
+<Option><![CDATA[Pervez Musharraf]]></Option>
+<Option><![CDATA[Ghulam Ishaq Khan]]></Option>
+<Option><![CDATA[Zia-ul-Haq]]></Option>
+
+
+<Option><![CDATA[1988]]></Option>
+<Option><![CDATA[1989]]></Option>
+<Option><![CDATA[1990]]></Option>
+<Option><![CDATA[1991]]></Option>
+
+<Option><![CDATA[2005]]></Option>
+<Option><![CDATA[2007]]></Option>
+<Option><![CDATA[2008]]></Option>
+<Option><![CDATA[2009]]></Option>
+
+<Option><![CDATA[1947]]></Option>
+<Option><![CDATA[1970]]></Option>
+<Option><![CDATA[1972]]></Option>
+<Option><![CDATA[1975]]></Option>
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again.]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good Job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[GAME OVER!]]></feedback>
+
+
+</data>
+</framexml>

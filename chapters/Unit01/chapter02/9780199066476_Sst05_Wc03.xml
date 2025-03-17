@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>World climate</b>]]></text>
+<text><![CDATA[Bowl the batsman out!<BR>Click the correct option.]]></text>
+<text><![CDATA[<B>Submit</B>]]></text>
+<!-- Questions -->
+
+<Question><![CDATA[A place closer to the __________ will have a hot climate.]]></Question>
+<Question><![CDATA[Pakistan lies just north of the ______________.]]></Question>
+<Question><![CDATA[People living near the _____________ used to make houses using blocks of snow.]]></Question>
+<Question><![CDATA[In __________ areas, houses are built with flat roofs.]]></Question>
+<Question><![CDATA[In __________ areas, houses are built with sloping roofs.]]></Question>
+<Question><![CDATA[Which latitude represents the equator?]]></Question>
+<Question><![CDATA[Which latitude represents the Tropic of Cancer?]]></Question>
+<Question><![CDATA[Which latitude represents the Tropic of Capricorn?]]></Question>
+<Question><![CDATA[Which latitude represents the Arctic Circle?]]></Question>
+<Question><![CDATA[Which latitude represents the Antarctic Circle?]]></Question>
+
+
+
+
+<!-- Option -->
+
+<Option><![CDATA[North Pole]]></Option>
+<Option><![CDATA[South Pole]]></Option>
+<Option><![CDATA[Arctic Circle]]></Option>
+<Option><![CDATA[equator]]></Option>
+
+
+<Option><![CDATA[Tropic of Cancer]]></Option>
+<Option><![CDATA[Tropic of Capricorn]]></Option>
+<Option><![CDATA[Arctic Circle]]></Option>
+<Option><![CDATA[Antarctic Circle]]></Option>
+
+
+<Option><![CDATA[equator]]></Option>
+<Option><![CDATA[South Pole]]></Option>
+<Option><![CDATA[North Pole]]></Option>
+<Option><![CDATA[Tropic of Cancer]]></Option>
+
+
+<Option><![CDATA[rainy]]></Option>
+<Option><![CDATA[dry]]></Option>
+<Option><![CDATA[snowy]]></Option>
+<Option><![CDATA[windy]]></Option>
+
+
+<Option><![CDATA[rainy]]></Option>
+<Option><![CDATA[dry]]></Option>
+<Option><![CDATA[windy]]></Option>
+<Option><![CDATA[hot]]></Option>
+
+
+<Option><![CDATA[0°]]></Option>
+<Option><![CDATA[23.5°N]]></Option>
+<Option><![CDATA[66.3°S]]></Option>
+<Option><![CDATA[66.3°N]]></Option>
+
+
+<Option><![CDATA[66.3°N]]></Option>
+<Option><![CDATA[23.5°N]]></Option>
+<Option><![CDATA[66.3°S]]></Option>
+<Option><![CDATA[23.5°S]]></Option>
+
+
+
+<Option><![CDATA[23.5°N]]></Option>
+<Option><![CDATA[66.3°S]]></Option>
+<Option><![CDATA[66.3°N]]></Option>
+<Option><![CDATA[23.5°S]]></Option>
+
+
+<Option><![CDATA[23.5°N]]></Option>
+<Option><![CDATA[66.3°S]]></Option>
+<Option><![CDATA[66.3°N]]></Option>
+<Option><![CDATA[23.5°S]]></Option>
+
+
+<Option><![CDATA[23.5°N]]></Option>
+<Option><![CDATA[66.3°S]]></Option>
+<Option><![CDATA[66.3°N]]></Option>
+<Option><![CDATA[23.5°S]]></Option>
+
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again.]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good Job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+
+</data>
+</framexml>

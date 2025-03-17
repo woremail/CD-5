@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>The struggle for independence</b>]]></text>
+<text><![CDATA[Reveal the image. Match the photos with the correct names.]]></text>
+
+
+<text><![CDATA[Mohammed Ali Jinnah]]></text>
+<text><![CDATA[Allama Iqbal]]></text>
+<text><![CDATA[Liaquat Ali Khan]]></text>
+<text><![CDATA[Maulana Mohammad Ali Jauhar]]></text>
+<text><![CDATA[Nawab Viqar ul Mulk]]></text>
+<text><![CDATA[Sir Syed Ahmed Khan]]></text>
+<text><![CDATA[Mohandas Gandhi]]></text>
+<text><![CDATA[Jawaharlal Nehru]]></text>
+<text><![CDATA[Bahadur Shah Zafar]]></text>
+<text><![CDATA[Sir Syed Ahmed Khan]]></text>
+<text><![CDATA[Chaudhry Rehmat Ali]]></text>
+<text><![CDATA[Mohandas Gandhi]]></text>
+
+
+<Question><![CDATA[This is the national animal of Pakistan. What is it called? Type the name in the space provided.]]></Question>
+<Question><![CDATA[This is the national emblem of Pakistan. What is it called? Type the name in the space provided.]]></Question>
+<Question><![CDATA[This is the national __________ of Pakistan.]]></Question>
+
+
+
+
+<!-- !!Welldone!! -->
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too!]]></feedback>
+<feedback><![CDATA[This is the right answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Click Next]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+<Submit><![CDATA[Submit]]></Submit>
+<Submit><![CDATA[photos with the correct names.]]></Submit>
+
+</data>
+</framexml>

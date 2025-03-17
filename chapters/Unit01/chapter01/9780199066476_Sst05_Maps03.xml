@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Maps</b>]]></text>
+<text><![CDATA[Rearrange the jumbled word and type the  correct word in the blank. Then click 'Submit'. Take help from the hint.]]></text>
+<text><![CDATA[<B>Submit</B>]]></text>
+<!-- Questions -->
+
+<Question><![CDATA[It helps us to find a place on a map.]]></Question>
+<Question><![CDATA[geographic direction]]></Question>
+<Question><![CDATA[the shape of the Earth]]></Question>
+<Question><![CDATA[lines running from east to west on a map]]></Question>
+<Question><![CDATA[a map that shows hills, mountains, rivers, and valleys]]></Question>
+<Question><![CDATA[an instrument used to show directions]]></Question>
+<Question><![CDATA[meridians of __________]]></Question>
+<Question><![CDATA[0&#176; latitude]]></Question>
+<Question><![CDATA[0&#176; longitude, Prime __________]]></Question>
+<Question><![CDATA[one half of the Earth]]></Question>
+
+<!-- Option -->
+
+<Option><![CDATA[D]]></Option><!-- 0 -->
+<Option><![CDATA[G]]></Option>
+<Option><![CDATA[I]]></Option>
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[]]></Option>
+
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[H]]></Option>
+<Option><![CDATA[N]]></Option>
+<Option><![CDATA[O]]></Option>
+<Option><![CDATA[T]]></Option><!-- 9 -->
+
+<Option><![CDATA[E]]></Option><!-- 10 -->
+<Option><![CDATA[P]]></Option>
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[S]]></Option>
+<Option><![CDATA[H]]></Option>
+<Option><![CDATA[R]]></Option>
+
+<Option><![CDATA[F]]></Option>
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[L]]></Option><!-- 18 -->
+<Option><![CDATA[I]]></Option><!-- 19 -->
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[R]]></Option>
+
+<Option><![CDATA[L]]></Option>
+<Option><![CDATA[A]]></Option><!-- 23 -->
+<Option><![CDATA[C]]></Option>
+<Option><![CDATA[H]]></Option>
+<Option><![CDATA[P]]></Option>
+<Option><![CDATA[I]]></Option>
+<Options><![CDATA[Y]]></Options>
+<Options><![CDATA[S]]></Options>
+
+<Option><![CDATA[S]]></Option>
+<Option><![CDATA[C]]></Option>
+<Option><![CDATA[A]]></Option>
+<Option><![CDATA[M]]></Option>
+<Option><![CDATA[P]]></Option>
+<Option><![CDATA[O]]></Option>
+<Option><![CDATA[S]]></Option>
+
+<Option><![CDATA[T]]></Option>
+<Option><![CDATA[D]]></Option>
+<Option><![CDATA[O]]></Option>
+<Option><![CDATA[N]]></Option>
+<Option><![CDATA[G]]></Option>
+<Option><![CDATA[I]]></Option>
+<Option><![CDATA[E]]></Option>
+<Options><![CDATA[L]]></Options>
+<Options><![CDATA[U]]></Options><!-- 45 -->
+
+
+<Option><![CDATA[R]]></Option>
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[A]]></Option>
+<Option><![CDATA[Q]]></Option>
+<Option><![CDATA[T]]></Option>
+<Option><![CDATA[U]]></Option>
+<Option><![CDATA[O]]></Option>
+
+<Option><![CDATA[D]]></Option>
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[M]]></Option>
+<Option><![CDATA[I]]></Option>
+<Option><![CDATA[N]]></Option>
+<Option><![CDATA[A]]></Option>
+<Option><![CDATA[I]]></Option>
+<Options><![CDATA[R]]></Options>
+
+<Option><![CDATA[P]]></Option>
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[M]]></Option>
+<Option><![CDATA[H]]></Option>
+<Option><![CDATA[I]]></Option>
+<Option><![CDATA[E]]></Option>
+<Option><![CDATA[R]]></Option>
+<Options><![CDATA[S]]></Options>
+<Options><![CDATA[E]]></Options>
+<Options><![CDATA[H]]></Options>
+
+
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again.]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good Job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+
+</data>
+</framexml>

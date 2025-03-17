@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>World climate</B>]]></text>
+<text><![CDATA[Different places on the Earth have different climates.]]></text>
+<text><![CDATA[Places close to the Poles have a very cold climate throughout the year.]]></text>
+<text><![CDATA[Places close to the equator have a very hot climate throughout the year.]]></text>
+<text><![CDATA[In places where there is a lot of rainfall and many trees, people make houses from wood.]]></text>
+<text><![CDATA[In dry areas, people build houses with flat roofs.]]></text>
+<text><![CDATA[In areas with high rainfall or snowfall, houses have sloping roofs so that rain or snow can slide off.]]></text>
+<text><![CDATA[In areas close to the North Pole there are no trees, so people used to make houses using blocks of snow.]]></text>
+<text><![CDATA[Some crops grow well in a cold climate, while some grow well in a warm climate.]]></text>
+<text><![CDATA[Some special lines of latitude divide the Earth into four climatic zones.]]></text>
+<text><![CDATA[The area between 5° north and south of the equator is called the <i>equatorial region.</i>]]></text>
+<text><![CDATA[The area between 23.5° north and south of the equator is called the <i>tropical region.</i>]]></text>
+<text><![CDATA[The area between 23.5° and 66.3° north and south of the equator is called the <i>temperate region.</i>]]></text>
+<text><![CDATA[Pakistan is located just to the north of the Tropic of Cancer.]]></text>
+<text><![CDATA[Some places like Quetta have very severe winters, whereas places like Jacobabad have extremely hot summers.]]></text>
+
+<!-- Caption -->
+
+<text><![CDATA[Cold polar climate]]></text>
+<text><![CDATA[Outdoor sports]]></text>
+<text><![CDATA[Water sports]]></text>
+<text><![CDATA[Indoor games]]></text>
+<text><![CDATA[House made from wood]]></text>
+<text><![CDATA[House with flat roof]]></text>
+<text><![CDATA[House with sloping roof]]></text>
+<text><![CDATA[House made of blocks of snow]]></text>
+<text><![CDATA[The equator (0° latitude)]]></text>
+<text><![CDATA[Tropic of Cancer (23.5°N latitude)]]></text>
+<text><![CDATA[Tropic of Capricorn (23.5°S latitude)]]></text>
+<text><![CDATA[Arctic Circle (66.3°N latitude)]]></text>
+<text><![CDATA[Antarctic Circle (66.3°S latitude)]]></text>
+<text><![CDATA[Pakistan's climate]]></text>
+<text><![CDATA[Amount of rainfall]]></text>
+<text><![CDATA[Jacobabad in summer]]></text>
+<text><![CDATA[Amount of rainfall]]></text>
+<text><![CDATA[Direction and frequency of winds]]></text>
+<text><![CDATA[Amount of water vapour in the air]]></text>
+
+
+
+<text><![CDATA[The area beyond 66.3° north and south of the equator is called the <i>polar region.</i>]]></text>
+<text><![CDATA[Pakistan</i>]]></text>
+
+
+
+
+
+
+</data>
+</framexml>

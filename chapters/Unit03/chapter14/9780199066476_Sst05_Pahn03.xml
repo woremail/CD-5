@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Early history of Islam</b>]]></text>
+<text><![CDATA[Type in the correct word in the blank space provided.]]></text>
+<Submit><![CDATA[<B>Submit</B>]]></Submit>
+<Submit><![CDATA[<B>Click the train</B>]]></Submit>
+
+<!-- question -->
+<question><![CDATA[The first Caliph of the Muslims was Hazrat __________ (RA).]]></question>
+<question><![CDATA[The first four caliphs of Islam are known as the __________ Guided Caliphs.]]></question>
+<question><![CDATA[The second Rightly Guided Caliph was Hazrat __________ Ibn al-Khattab (RA).]]></question>
+<question><![CDATA[The compilation of the Holy Quran was done during the caliphate of Hazrat __________ Ibn Affan (RA).]]></question>
+<question><![CDATA[The fourth Rightly Guided Caliph was Hazrat __________ (RA).]]></question>
+<question><![CDATA[The two major groups of Muslims are __________ and __________.]]></question>
+<question><![CDATA[Amir Muawiya Ibn Abu Sufyan moved the capital of the Islamic empire to __________.]]></question>
+<question><![CDATA[The point where the Muslims crossed the Mediterranean is known as __________ or Jabal-al-Tariq.]]></question>
+<question><![CDATA[The Umayyad rule ended when the __________ came to power.]]></question>
+<question><![CDATA[The Delhi Sultanate was set up by Qutbuddin __________.]]></question>
+
+
+
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

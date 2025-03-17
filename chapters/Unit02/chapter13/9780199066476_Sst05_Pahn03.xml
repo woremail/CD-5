@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Pakistan and her neighbours</b>]]></text>
+<text><![CDATA[Find the treasure. Complete the statement by choosing the correct answer.]]></text>
+
+<text><![CDATA[<b>Wrong answer!</b>]]></text>
+<text><![CDATA[<b>Oops, wrong again!</b>]]></text>
+<text><![CDATA[Now find the place by clicking the correct part of the map.]]></text>
+
+<!-- question -->
+<question><![CDATA[The capital of Iran is _________.]]></question>
+<option><![CDATA[Kabul]]></option>
+<option><![CDATA[Tehran]]></option>
+<option><![CDATA[New Delhi]]></option>
+<option><![CDATA[Riyadh]]></option>
+
+<question><![CDATA[Persia was the earlier name of _________.]]></question>
+<option><![CDATA[Afghanistan]]></option>
+<option><![CDATA[Iraq]]></option>
+<option><![CDATA[Turkey]]></option>
+<option><![CDATA[Iran]]></option>
+
+<question><![CDATA[The sea that lies to the north of Iran is the _________.]]></question>
+<option><![CDATA[Arabian Sea]]></option>
+<option><![CDATA[Aral Sea]]></option>
+<option><![CDATA[Caspian Sea]]></option>
+<option><![CDATA[Dead Sea]]></option>
+
+<question><![CDATA[The capital city of Afghanistan is _________.]]></question>
+<option><![CDATA[New Delhi]]></option>
+<option><![CDATA[Kabul]]></option>
+<option><![CDATA[Baghdad]]></option>
+<option><![CDATA[Kandahar]]></option>
+
+<question><![CDATA[Which of these countries does not share land borders with Afghanistan?]]></question>
+<option><![CDATA[Iran]]></option>
+<option><![CDATA[Tajikistan]]></option>
+<option><![CDATA[Pakistan]]></option>
+<option><![CDATA[Iraq]]></option>
+
+<question><![CDATA[The capital city of China is _________.]]></question>
+<option><![CDATA[Shanghai]]></option>
+<option><![CDATA[Hong Kong]]></option>
+<option><![CDATA[Xing Xiang]]></option>
+<option><![CDATA[Beijing]]></option>
+
+<question><![CDATA[The Chinese Communist Party was founded by ____________.]]></question>
+<option><![CDATA[Aung San Suu Kyi]]></option>
+<option><![CDATA[Tenzin Gyatso]]></option>
+<option><![CDATA[Deng Xiaoping]]></option>
+<option><![CDATA[Mao Zedong]]></option>
+
+<question><![CDATA[The country with the largest population in the world is _________.]]></question>
+<option><![CDATA[China]]></option>
+<option><![CDATA[India]]></option>
+<option><![CDATA[Russia]]></option>
+<option><![CDATA[Iran]]></option>
+
+<question><![CDATA[The Deccan Plateau lies in the southern part of ___________.]]></question>
+<option><![CDATA[China]]></option>
+<option><![CDATA[Iran]]></option>
+<option><![CDATA[India]]></option>
+<option><![CDATA[Afghanistan]]></option>
+
+<question><![CDATA[The capital city of India is _________.]]></question>
+<option><![CDATA[Mumbai]]></option>
+<option><![CDATA[Bangalore]]></option>
+<option><![CDATA[Hyderabad]]></option>
+<option><![CDATA[New Delhi]]></option>
+
+<!-- Number -->
+
+<number><![CDATA[1]]></number>
+<number><![CDATA[2]]></number>
+<number><![CDATA[3]]></number>
+<number><![CDATA[4]]></number>
+<number><![CDATA[5]]></number>
+<number><![CDATA[6]]></number>
+<number><![CDATA[7]]></number>
+<number><![CDATA[8]]></number>
+<number><![CDATA[9]]></number>
+<number><![CDATA[10]]></number>
+
+<ans><![CDATA[India]]></ans>
+<ans><![CDATA[Iran]]></ans>
+<ans><![CDATA[Turkmenistan]]></ans>
+<ans><![CDATA[Afghanistan]]></ans>
+<ans><![CDATA[Tajikistan]]></ans>
+<ans><![CDATA[Iraq]]></ans>
+<ans><![CDATA[Kyrgyzstan]]></ans>
+<ans><![CDATA[Saudi Arabia]]></ans>
+<ans><![CDATA[Arabian Sea]]></ans>
+<ans><![CDATA[China]]></ans>
+
+
+<!-- !!Welldone!! -->
+
+<feedback><![CDATA[That is correct! Well done!]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct! Try again]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+
+</data>
+</framexml>

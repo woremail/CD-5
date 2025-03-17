@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- chapter 3 -->
+<text><![CDATA[<B>Life in the desert, Life in the forest, and Life in the polar regions</B>]]></text><!-- 0 -->
+
+<text><![CDATA[Deserts are barren lands with very little rain and sparse vegetation.]]></text><!-- 1 -->
+<text><![CDATA[In most deserts, it is very hot during the day but very cold at night.]]></text><!-- 2 -->
+<text><![CDATA[Hot, dry, dusty winds blow in most deserts.]]></text><!-- 3 -->
+<text><![CDATA[Deserts that are close to the Tropics are called <i>tropical deserts</i>.]]></text><!-- 4 -->
+<text><![CDATA[The Sahara Desert, the Arabian Desert, and the Kalahari Desert are some tropical deserts.]]></text><!-- 5 -->
+<text><![CDATA[Deserts in the middle of a continent are called <i>continental deserts.</i>]]></text><!-- 6 -->
+<text><![CDATA[The Gobi desert and the Kyzyl Kum desert are continental deserts.]]></text><!-- 7 -->
+<text><![CDATA[Deserts that lie in the rain shadow areas of mountains are called <I>rain shadow deserts</I>.]]></text><!-- 8 -->
+<text><![CDATA[The Death Valley Desert and the Atacama Desert are two rain shadow deserts of the world.]]></text><!-- 9 -->
+<text><![CDATA[Deserts in coastal areas are called <I>coastal deserts</I>.]]></text><!-- 10 -->
+<text><![CDATA[The Namib Desert in Africa is a coastal desert.]]></text><!-- 11 -->
+<text><![CDATA[Trees and plants of most deserts are spiny with thick, fleshy stems to store water.]]></text><!-- 12 -->
+<text><![CDATA[Due to the harsh climate, deserts have a low human population.]]></text><!-- 13 -->
+
+<!-- chapter 4 -->
+<text><![CDATA[<I>Equatorial forests </I>and <I>temperate forests</I> are two major types of forest regions of the world.]]></text><!-- 14 -->
+<text><![CDATA[Equatorial forests are located close to the equator.]]></text><!-- 15 -->
+<text><![CDATA[Equatorial forests are also known as tropical rainforests.]]></text><!-- 16 -->
+<text><![CDATA[Equatorial rainforests are found in South America, Central Africa, and South East Asia.]]></text><!-- 17 -->
+<text><![CDATA[The Amazon Rainforest in Brazil is the largest rainforest in the world.]]></text><!-- 18 -->
+<text><![CDATA[Rainforests are home to many species of animals, birds, and insects.]]></text><!-- 19 -->
+<text><![CDATA[The people living in equatorial forests are usually tribal and have very good hunting skills.]]></text><!-- 20 -->
+<text><![CDATA[Temperate forests are mostly found between the Tropic of Cancer and the Arctic Circle in the northern hemisphere.]]></text><!-- 21 -->
+<text><![CDATA[Temperate forests are found in areas where the climate is cold.]]></text><!-- 22 -->
+<text><![CDATA[Temperate forests are mostly coniferous or alpine.]]></text><!-- 23 -->
+<text><![CDATA[In coniferous forests, trees are tall with needle-shaped leaves and bear cone-shaped fruits.]]></text><!-- 24 -->
+<text><![CDATA[Alpine forests are found on the higher slopes of mountains.]]></text><!-- 25 -->
+
+
+<!-- chapter 5 -->
+
+<text><![CDATA[The areas around the North and South Pole are called polar regions.]]></text><!-- 26 -->
+<text><![CDATA[The area within the Antarctic Circle is called the Antarctic region.]]></text><!-- 27 -->
+<text><![CDATA[The polar regions remain covered with snow throughout the year.]]></text><!-- 28 -->
+<text><![CDATA[The people who live in the Arctic region are called <i>Inuit.</i>]]></text><!-- 29 -->
+<text><![CDATA[The Inuit used to build houses, called igloos, out of blocks of snow. Now they live in houses made of insulated material.]]></text><!-- 30-->
+
+<text><![CDATA[Antarctica is a vast ice-covered continent around the South Pole.]]></text><!-- 31 -->
+<text><![CDATA[There are no permanent human settlements in Antarctica.]]></text><!-- 32 -->
+<text><![CDATA[The area around the Arctic Circle is called the Arctic region.]]></text><!-- 33 -->
+
+
+
+
+<!-- Caption -->
+<caption><![CDATA[Day in a Desert]]></caption><!-- 0 -->
+<caption><![CDATA[Desert during the day]]></caption><!-- 0 -->
+<caption><![CDATA[Desert at night]]></caption><!-- 1 -->
+<caption><![CDATA[Sandy desert]]></caption><!-- 2 -->
+<caption><![CDATA[Rocky desert]]></caption><!-- 3 -->
+<caption><![CDATA[Tropical deserts]]></caption><!-- 4 -->
+<caption><![CDATA[Continental deserts]]></caption><!-- 5 -->
+<caption><![CDATA[Rain shadow deserts]]></caption><!-- 6 -->
+<caption><![CDATA[Coastal deserts]]></caption><!-- 7 -->
+<caption><![CDATA[Lizard]]></caption><!-- 8 -->
+<caption><![CDATA[Snake]]></caption><!-- 9 -->
+<caption><![CDATA[Scorpion]]></caption><!-- 10 -->
+<caption><![CDATA[Equatorial forest]]></caption><!-- 11 -->
+<caption><![CDATA[Temperate forest]]></caption><!-- 12 -->
+<caption><![CDATA[Equatorial rainforests]]></caption><!-- 13 -->
+<caption><![CDATA[The Amazon Rainforest in Brazil]]></caption><!-- 14 -->
+<caption><![CDATA[Rainforest trees]]></caption><!-- 15 -->
+<caption><![CDATA[Rainforest animals]]></caption><!-- 16 -->
+<caption><![CDATA[Pygmies in Central African rainforests]]></caption><!-- 17 -->
+<caption><![CDATA[Coniferous forest ]]></caption><!-- 18 -->
+<caption><![CDATA[Alpine forest]]></caption><!-- 19 -->
+<caption><![CDATA[Pine]]></caption><!-- 20 -->
+<caption><![CDATA[Spruce]]></caption><!-- 21 -->
+<caption><![CDATA[Fir]]></caption><!-- 22 -->
+<caption><![CDATA[Lynx]]></caption><!-- 23 -->
+<caption><![CDATA[Bear]]></caption><!-- 24 -->
+<caption><![CDATA[Wolf]]></caption><!-- 25 -->
+<caption><![CDATA[The Arctic region]]></caption><!-- 26 -->
+<caption><![CDATA[The Antarctic region]]></caption><!-- 27 -->
+<caption><![CDATA[Inuit]]></caption><!-- 28 -->
+<caption><![CDATA[Igloo]]></caption><!-- 29 -->
+<caption><![CDATA[Penguins]]></caption><!-- 30 -->
+<caption><![CDATA[Walrus]]></caption><!-- 31 -->
+<caption><![CDATA[Seal]]></caption><!-- 32 -->
+<caption><![CDATA[Research station in Antarctica]]></caption><!-- 33 -->
+
+
+</data>
+</framexml>
